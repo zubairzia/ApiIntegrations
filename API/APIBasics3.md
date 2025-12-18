@@ -1,1 +1,2 @@
 API documentation
+Authorization and Authentication
