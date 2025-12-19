@@ -17,6 +17,7 @@ Fingerprint / Face ID
 One-time codes (OTP)
 
 Example: Logging into your school account with your email and password.
+.........................................................................
 
 Authorization
 
