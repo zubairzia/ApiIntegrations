@@ -31,3 +31,5 @@ Experiment with all methods, headers (e.g., Content-Type: application/json), and
 Read Documentation:Look at real APIs: GitHub API (https://docs.github.com/en/rest), or Stripe API.
 Note how they structure endpoints and use methods.
 
+This day shifts you from theory to practical REST structure.
+
