@@ -16,3 +16,5 @@ Common Response Formats:Most REST APIs use JSON for request/response bodies.
 Example response: { "id": 123, "name": "John" }
 
 
+Status Codes in Context (build on Day 3):200 OK (GET success), 201 Created (POST success), 204 No Content (DELETE success), 404 Not Found, 400 Bad Request, etc.
+
