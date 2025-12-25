@@ -5,3 +5,11 @@ Stateless: Each request contains all info needed; the server doesn't remember pr
 Client-Server Separation: Client handles UI, server handles data/logic.
 Cacheable: Responses can be cached for performance.
 Uniform Interface: Consistent way to interact (via HTTP methods).
+
+HTTP Methods for CRUD (Create, Read, Update, Delete):GET: Retrieve data (safe, idempotent – no side effects). E.g., GET /users (list all) or GET /users/123 (one user).
+POST: Create new resource. E.g., POST /users with data in body.
+PUT or PATCH: Update resource (PUT replaces entire resource; PATCH updates partially).
+DELETE: Remove resource. E.g., DELETE /users/123.
+Key concepts: Idempotent methods (GET, PUT, DELETE can be repeated without changing result); POST is not.
+
+
