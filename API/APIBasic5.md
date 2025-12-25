@@ -28,3 +28,6 @@ Reqres.in: https://reqres.in/ (includes auth examples)
 
 Experiment with all methods, headers (e.g., Content-Type: application/json), and query params (e.g., GET /posts?userId=1).
 
+Read Documentation:Look at real APIs: GitHub API (https://docs.github.com/en/rest), or Stripe API.
+Note how they structure endpoints and use methods.
+
