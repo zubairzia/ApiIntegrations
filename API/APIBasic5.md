@@ -18,3 +18,13 @@ Example response: { "id": 123, "name": "John" }
 
 Status Codes in Context (build on Day 3):200 OK (GET success), 201 Created (POST success), 204 No Content (DELETE success), 404 Not Found, 400 Bad Request, etc.
 
+What to Do (Hands-On Practice – Crucial for Backend Learning):Use a Tool to Test Public APIs:Install Postman (free) or use curl in terminal.
+Try a free public REST API like:JSONPlaceholder (fake data): https://jsonplaceholder.typicode.com/GET https://jsonplaceholder.typicode.com/posts (list posts)
+GET https://jsonplaceholder.typicode.com/posts/1
+POST https://jsonplaceholder.typicode.com/posts (send JSON body: { "title": "My Post", "body": "Hello" })
+PUT/PATCH and DELETE on /posts/1
+
+Reqres.in: https://reqres.in/ (includes auth examples)
+
+Experiment with all methods, headers (e.g., Content-Type: application/json), and query params (e.g., GET /posts?userId=1).
+
