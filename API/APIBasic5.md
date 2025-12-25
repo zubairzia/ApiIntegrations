@@ -12,4 +12,7 @@ PUT or PATCH: Update resource (PUT replaces entire resource; PATCH updates parti
 DELETE: Remove resource. E.g., DELETE /users/123.
 Key concepts: Idempotent methods (GET, PUT, DELETE can be repeated without changing result); POST is not.
 
+Common Response Formats:Most REST APIs use JSON for request/response bodies.
+Example response: { "id": 123, "name": "John" }
+
 
