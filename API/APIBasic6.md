@@ -17,3 +17,5 @@ Choose Your Language Track (Pick One for Now):Option 1: Node.js (JavaScript/Type
 
 Use built-in fetch (modern Node.js supports it) or the popular axios library.
 
+Hands-On Tasks for Today (Do These!):
+
