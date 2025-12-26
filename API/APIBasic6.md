@@ -5,3 +5,7 @@ Now that you understand REST principles, HTTP methods, and have tested APIs manu
 What to Learn Today:How to Make HTTP Requests in CodeFocus on one language to start (I recommend Node.js or Python – both are beginner-friendly and widely used for backend).
 Learn the most common library for HTTP requests in that language.
 
+Handling ResponsesParsing JSON responses
+Checking status codes
+Handling errors (e.g., 404, 500, network issues)
+
