@@ -19,3 +19,6 @@ Use built-in fetch (modern Node.js supports it) or the popular axios library.
 
 Hands-On Tasks for Today (Do These!):
 
+Set up your environment:Node.js: Install from nodejs.org, use node yourfile.js
+Python: Install Python, use a file or Jupyter/repl.it
+
