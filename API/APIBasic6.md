@@ -34,3 +34,5 @@ Try another public API (e.g., https://reqres.in/api/users)
 
 This day bridges theory to real coding.
 
+Once you're comfortable making requests, you'll be ready to build your own APIs soon.
+
