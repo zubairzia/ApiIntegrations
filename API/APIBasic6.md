@@ -9,3 +9,7 @@ Handling ResponsesParsing JSON responses
 Checking status codes
 Handling errors (e.g., 404, 500, network issues)
 
+Sending DataQuery parameters, path parameters
+Request body (JSON for POST/PUT/PATCH)
+Headers (e.g., Authorization, Content-Type)
+
