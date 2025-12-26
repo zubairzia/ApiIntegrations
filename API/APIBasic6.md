@@ -32,3 +32,5 @@ Bonus Challenges:Add error handling (e.g., check if response.ok or response.stat
 Filter posts by userId using query params: /posts?userId=1
 Try another public API (e.g., https://reqres.in/api/users)
 
+This day bridges theory to real coding.
+
