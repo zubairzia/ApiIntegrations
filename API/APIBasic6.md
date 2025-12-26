@@ -15,3 +15,5 @@ Headers (e.g., Authorization, Content-Type)
 
 Choose Your Language Track (Pick One for Now):Option 1: Node.js (JavaScript/TypeScript) – Great if you're into full-stack JS
 
+Use built-in fetch (modern Node.js supports it) or the popular axios library.
+
