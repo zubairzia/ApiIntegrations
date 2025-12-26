@@ -22,3 +22,9 @@ Hands-On Tasks for Today (Do These!):
 Set up your environment:Node.js: Install from nodejs.org, use node yourfile.js
 Python: Install Python, use a file or Jupyter/repl.it
 
+Write code to:Fetch and print all posts from JSONPlaceholder
+Fetch a single post by ID (use path param: /posts/1)
+Create a new post (POST) and print the response
+Update a post (try PUT or PATCH)
+Delete a post (DELETE) and check status
+
