@@ -28,3 +28,7 @@ Create a new post (POST) and print the response
 Update a post (try PUT or PATCH)
 Delete a post (DELETE) and check status
 
+Bonus Challenges:Add error handling (e.g., check if response.ok or response.status_code)
+Filter posts by userId using query params: /posts?userId=1
+Try another public API (e.g., https://reqres.in/api/users)
+
